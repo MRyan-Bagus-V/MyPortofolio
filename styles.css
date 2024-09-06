@@ -57,6 +57,7 @@ header {
     line-height: 1.2;
     letter-spacing: 1px;
     color: #61dafb;
+    text-shadow: #f6f6f6 0 0 10px;
 }
 
 .highlight {
