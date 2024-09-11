@@ -62,7 +62,7 @@ header {
 
 @keyframes changeBackground {
     0% {
-        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('project1.jpg');
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('project3.jpg');
         background-size: cover;
         background-position: center center;
     }
